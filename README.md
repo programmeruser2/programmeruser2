@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icositetrachoron-programmer&theme=merko) 
-
-![C++ Language](https://img.shields.io/badge/C++-Language-informational?style=flat&logo=c++&logoColor=white&color=cc443f)
