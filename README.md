@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=icositetrachoron-programmer)
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icositetrachoron-programmer&theme=merko) 
+
+# Languages:
+
+[![ISO C++ Logo](https://isocpp.org/assets/images/cpp_logo.png)](https://isocpp.org/)
