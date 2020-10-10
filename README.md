@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 # Languages:
 
 [![ISO C++ Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/200px-ISO_C%2B%2B_Logo.svg.png)](https://isocpp.org/)
-
 [![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png)](https://www.ecma-international.org/memento/tc39.htm)
