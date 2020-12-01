@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=icositetrachoron-programmer)
+![](https://komarev.com/ghpvc/?username=programmeruser2)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=icositetrachoron-programmer&theme=merko) 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=programmeruser2&theme=merko) 
 
 # Languages:
 
