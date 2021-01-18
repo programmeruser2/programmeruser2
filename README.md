@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=programmeruser2)
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=programmeruser2&count_private=true&theme=blueberry&show_icons=true&include_all_commits=true)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=programmeruser2&theme=merko) 
